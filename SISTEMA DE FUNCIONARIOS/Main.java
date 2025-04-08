@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Criando funcionários de diferentes tipos
-        FuncionarioTempoIntegral funcionario1 = new FuncionarioTempoIntegral("João Silva", "123.456.789-00", 5000.0, 1000.0);
+        FuncionarioTempoIntegral funcionario1 = new FuncionarioTempoIntegral("Joao Silva", "123.456.789-00", 5000.0, 1000.0);
         FuncionarioMeioPeriodo funcionario2 = new FuncionarioMeioPeriodo("Maria Santos", "987.654.321-00", 5000.0, 20);
         FuncionarioContratado funcionario3 = new FuncionarioContratado("Pedro Souza", "456.789.123-00", 4000.0, 6, 500.0);
 
